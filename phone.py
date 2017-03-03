@@ -1,6 +1,4 @@
 
-import json
-
 class Phone(object):
     """A simple Phone class to keep track of contacts"""
 
